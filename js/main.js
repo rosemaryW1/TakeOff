@@ -23,7 +23,7 @@
 		}
 	};
 
-	var moileMenuOutsideClick = function() {
+	var mobileMenuOutsideClick = function() {
 
 		$(document).click(function (e) {
 	    var container = $("#colorlib-offcanvas, .js-colorlib-nav-toggle");
